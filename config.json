@@ -1,0 +1,13 @@
+{
+	"owner": ["6287720646259@s.whatsapp.net"],
+	"thumbvideo": "https://uploader.caliph.my.id/file/hU0F0HZ9K4.mp4",
+	"thumb": "https://telegra.ph/file/d8dba7eee759ff82b35be.jpg",
+	"session": "session.json",
+	"ownername": "Nando",
+	"self": false,
+	"packInfo": { "packname": "@rizkyfadilah8", "author": "6282387804410" },
+	"namebot": "SampleBot",
+	"ignore": {
+		"directory": ["umum"]
+	}
+}
